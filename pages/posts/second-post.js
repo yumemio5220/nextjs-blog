@@ -5,9 +5,9 @@ export default function FirstPost() {
   return (
     <Layout>
       <Head>
-        <title>First Post</title>
+        <title>Second Post</title>
       </Head>
-      <h1>First Post</h1>
+      <h1>Second Post</h1>
     </Layout>
   )
 }
